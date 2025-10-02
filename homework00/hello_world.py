@@ -1,8 +1,5 @@
 """this is the code, wowie"""
 
-MESSAGE = 0
-
-
-def text():
+def text(m):
     """this function does something, amazing"""
-    return MESSAGE
+    return "message"
